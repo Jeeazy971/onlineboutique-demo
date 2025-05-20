@@ -164,3 +164,17 @@ Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
   - [Introduction to Service Management with Istio](https://www.youtube.com/watch?v=wCJrdKdD6UM&feature=youtu.be&t=586)
 - [Google Cloud Next'18 London – Keynote](https://youtu.be/nIq2pkNcfEI?t=3071)
   showing Stackdriver Incident Response Management
+
+## Captures d’écran
+
+### 1. Installation d’ArgoCD
+![Installation d’ArgoCD](docs/screenshots/01-install-argocd.png)
+
+### 2. Création de l’application
+![Création de l’application dans ArgoCD](docs/screenshots/02-create-app-argocd.png)
+
+### 3. Synchronisation / Déploiement
+![Déploiement de l’application](docs/screenshots/03-sync-app-argocd.png)
+
+### 4. Page web de l’application
+![Page web Online Boutique](docs/screenshots/04-frontend-page.png)
