@@ -45,6 +45,7 @@ spec:
             privileged: false
             readOnlyRootFilesystem: true
           image: frontend
+          imagePullPolicy: Never
           ports:
           - containerPort: 8080
           readinessProbe:
